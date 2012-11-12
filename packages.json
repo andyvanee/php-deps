@@ -1,140 +1,139 @@
 {
-    "packages":
-        {"php-deps/Auth":
-            {"1.5.4" :
-                {"name": "php-deps/Auth",
-                 "dist": {
-                        "type": "zip",
-                        "url": "https://github.com/downloads/Andyvanee/php-deps/Auth.zip"
-                    }
-                }
-            },
-        "php-deps/Cache_Lite":
-            {"1.7.9" :
-                {"name": "php-deps/Cache_Lite",
-                 "dist": {
-                        "type": "zip",
-                        "url": "https://github.com/downloads/Andyvanee/php-deps/Cache_Lite.zip"
-                    }
-                }
-            },
-        "php-deps/Crypt_HMAC":
-            {"1.0.1" :
-                {"name": "php-deps/Crypt_HMAC",
-                 "dist": {
-                        "type": "zip",
-                        "url": "https://github.com/downloads/Andyvanee/php-deps/Crypt_HMAC.zip"
-                    }
-                }
-            },
-        "php-deps/Date":
-            {"1.4.7" :
-                {"name": "php-deps/Date",
-                 "dist": {
-                        "type": "zip",
-                        "url": "https://github.com/downloads/Andyvanee/php-deps/Date.zip"
-                    }
-                }
-            },
-        "php-deps/HTML_QuickForm":
-            {"3.2.9" :
-                {"name": "php-deps/HTML_QuickForm",
-                 "dist": {
-                        "type": "zip",
-                        "url": "https://github.com/downloads/Andyvanee/php-deps/HTML_QuickForm.zip"
-                    }
-                }
-            },
-        "php-deps/HTTP":
-            {"1.4.0" :
-                {"name": "php-deps/HTTP",
-                 "dist": {
-                        "type": "zip",
-                        "url": "https://github.com/downloads/Andyvanee/php-deps/HTTP.zip"
-                    }
-                }
-            },
-        "php-deps/HTTP_Request":
-            {"1.4.1" :
-                {"name": "php-deps/HTTP_Request",
-                 "dist": {
-                        "type": "zip",
-                        "url": "https://github.com/downloads/Andyvanee/php-deps/HTTP_Request.zip"
-                    }
-                }
-            },
-        "php-deps/HTTP_Header":
-            {"1.2.0" :
-                {"name": "php-deps/HTTP_Header",
-                 "dist": {
-                        "type": "zip",
-                        "url": "https://github.com/downloads/Andyvanee/php-deps/HTTP_Header.zip"
-                    }
-                }
-            },
-        "php-deps/HTTP_Upload":
-            {"0.9.0" :
-                {"name": "php-deps/HTTP_Upload",
-                 "dist": {
-                        "type": "zip",
-                        "url": "https://github.com/downloads/Andyvanee/php-deps/HTTP_Upload.zip"
-                    }
-                }
-            },
-        "php-deps/Log":
-            {"1.3" :
-                {"name": "php-deps/Log",
-                 "dist": {
-                        "type": "zip",
-                        "url": "https://github.com/downloads/Andyvanee/php-deps/Log.zip"
-                    }
-                }
-            },
-        "php-deps/MDB2":
-            {"2.4.1" :
-                {"name": "php-deps/MDB2",
-                 "dist": {
-                        "type": "zip",
-                        "url": "https://github.com/downloads/Andyvanee/php-deps/MDB2.zip"
-                    }
-                }
-            },
-        "php-deps/MDB2_Driver_mysql":
-            {"1.4.1.0" :
-                {"name": "php-deps/MDB2_Driver_mysql",
-                 "dist": {
-                        "type": "zip",
-                        "url": "https://github.com/downloads/Andyvanee/php-deps/MDB2_Driver_mysql.zip"
-                    }
-                }
-            },
-        "php-deps/PEAR":
-            {"1.4.9" :
-                {"name": "php-deps/PEAR",
-                 "dist": {
-                        "type": "zip",
-                        "url": "https://github.com/downloads/Andyvanee/php-deps/PEAR.zip"
-                    }
-                }
-            },
-        "php-deps/Spreadsheet_Excel_Writer":
-            {"0.6" :
-                {"name": "php-deps/Spreadsheet_Excel_Writer",
-                 "dist": {
-                        "type": "zip",
-                        "url": "https://github.com/downloads/Andyvanee/php-deps/Spreadsheet_Excel_Writer.zip"
-                    }
-                }
-            },
-        "php-deps/Services_JSON":
-            {"1.0.0" :
-                {"name": "php-deps/Services_JSON",
-                 "dist": {
-                        "type": "zip",
-                        "url": "https://github.com/downloads/Andyvanee/php-deps/Services_JSON.zip"
-                    }
-                }
-            }
+  "packages": {
+    "php-deps\/Auth": {
+      "1.5.4": {
+        "name": "php-deps\/Auth",
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Auth.zip"
         }
+      }
+    },
+    "php-deps\/Cache_Lite": {
+      "1.7.9": {
+        "name": "php-deps\/Cache_Lite",
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Cache_Lite.zip"
+        }
+      }
+    },
+    "php-deps\/Crypt_HMAC": {
+      "1.0.1": {
+        "name": "php-deps\/Crypt_HMAC",
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Crypt_HMAC.zip"
+        }
+      }
+    },
+    "php-deps\/Date": {
+      "1.4.7": {
+        "name": "php-deps\/Date",
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Date.zip"
+        }
+      }
+    },
+    "php-deps\/HTML_QuickForm": {
+      "3.2.9": {
+        "name": "php-deps\/HTML_QuickForm",
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/HTML_QuickForm.zip"
+        }
+      }
+    },
+    "php-deps\/HTTP": {
+      "1.4.0": {
+        "name": "php-deps\/HTTP",
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/HTTP.zip"
+        }
+      }
+    },
+    "php-deps\/HTTP_Request": {
+      "1.4.1": {
+        "name": "php-deps\/HTTP_Request",
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/HTTP_Request.zip"
+        }
+      }
+    },
+    "php-deps\/HTTP_Header": {
+      "1.2.0": {
+        "name": "php-deps\/HTTP_Header",
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/HTTP_Header.zip"
+        }
+      }
+    },
+    "php-deps\/HTTP_Upload": {
+      "0.9.0": {
+        "name": "php-deps\/HTTP_Upload",
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/HTTP_Upload.zip"
+        }
+      }
+    },
+    "php-deps\/Log": {
+      "1.3": {
+        "name": "php-deps\/Log",
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Log.zip"
+        }
+      }
+    },
+    "php-deps\/MDB2": {
+      "2.4.1": {
+        "name": "php-deps\/MDB2",
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/MDB2.zip"
+        }
+      }
+    },
+    "php-deps\/MDB2_Driver_mysql": {
+      "1.4.1.0": {
+        "name": "php-deps\/MDB2_Driver_mysql",
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/MDB2_Driver_mysql.zip"
+        }
+      }
+    },
+    "php-deps\/PEAR": {
+      "1.4.9": {
+        "name": "php-deps\/PEAR",
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/PEAR.zip"
+        }
+      }
+    },
+    "php-deps\/Spreadsheet_Excel_Writer": {
+      "0.6": {
+        "name": "php-deps\/Spreadsheet_Excel_Writer",
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Spreadsheet_Excel_Writer.zip"
+        }
+      }
+    },
+    "php-deps\/Services_JSON": {
+      "1.0.0": {
+        "name": "php-deps\/Services_JSON",
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Services_JSON.zip"
+        }
+      }
     }
+  }
 }
