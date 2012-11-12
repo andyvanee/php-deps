@@ -164,6 +164,28 @@
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Services_JSON.zip"
         }
       }
+    },
+    "php-deps\/smarty": {
+      "2.6.27": {
+        "name": "php-deps\/smarty",
+        "version": "2.6.27",
+        "autoload": {"classmap": ["libs/"]},
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Smarty-2.6.27.zip"
+        }
+      }
+    },
+    "php-deps\/smarty-paginate": {
+      "1.5": {
+        "name": "php-deps\/smarty-paginate",
+        "version": "1.5",
+        "autoload": {"classmap": [""]},
+        "dist": {
+          "type": "tar",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/SmartyPaginate-1.5.tar.gz"
+        }
+      }
     }
   }
 }
