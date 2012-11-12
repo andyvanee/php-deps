@@ -4,6 +4,7 @@
       "1.5.4": {
         "name": "php-deps\/Auth",
         "version": "1.5.4",
+        "autoload": {"psr-0": {"Auth":""}},
         "dist": {
           "type": "zip",
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Auth.zip"
@@ -14,6 +15,7 @@
       "1.7.9": {
         "name": "php-deps\/Cache_Lite",
         "version": "1.7.9",
+        "autoload": {"psr-0": {"Cache_Lite":""}},
         "dist": {
           "type": "zip",
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Cache_Lite.zip"
@@ -24,6 +26,7 @@
       "1.0.1": {
         "name": "php-deps\/Crypt_HMAC",
         "version": "1.0.1",
+        "autoload": {"psr-0": {"Crypt_HMAC":""}},
         "dist": {
           "type": "zip",
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Crypt_HMAC.zip"
@@ -34,6 +37,7 @@
       "1.4.7": {
         "name": "php-deps\/Date",
         "version": "1.4.7",
+        "autoload": {"psr-0": {"Date":""}},
         "dist": {
           "type": "zip",
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Date.zip"
@@ -44,6 +48,7 @@
       "3.2.9": {
         "name": "php-deps\/HTML_QuickForm",
         "version": "3.2.9",
+        "autoload": {"psr-0": {"HTML_QuickForm":""}},
         "dist": {
           "type": "zip",
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/HTML_QuickForm.zip"
@@ -54,6 +59,7 @@
       "1.4.0": {
         "name": "php-deps\/HTTP",
         "version": "1.4.0",
+        "autoload": {"psr-0": {"HTTP":""}},
         "dist": {
           "type": "zip",
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/HTTP.zip"
@@ -64,6 +70,7 @@
       "1.4.1": {
         "name": "php-deps\/HTTP_Request",
         "version": "1.4.1",
+        "autoload": {"psr-0": {"HTTP_Request":""}},
         "dist": {
           "type": "zip",
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/HTTP_Request.zip"
@@ -74,6 +81,7 @@
       "1.2.0": {
         "name": "php-deps\/HTTP_Header",
         "version": "1.2.0",
+        "autoload": {"psr-0": {"HTTP_Header":""}},
         "dist": {
           "type": "zip",
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/HTTP_Header.zip"
@@ -84,6 +92,7 @@
       "0.9.0": {
         "name": "php-deps\/HTTP_Upload",
         "version": "0.9.0",
+        "autoload": {"psr-0": {"HTTP_Upload":""}},
         "dist": {
           "type": "zip",
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/HTTP_Upload.zip"
@@ -94,6 +103,7 @@
       "1.3": {
         "name": "php-deps\/Log",
         "version": "1.3",
+        "autoload": {"psr-0": {"Log":""}},
         "dist": {
           "type": "zip",
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Log.zip"
@@ -104,6 +114,7 @@
       "2.4.1": {
         "name": "php-deps\/MDB2",
         "version": "2.4.1",
+        "autoload": {"psr-0": {"MDB2":""}},
         "dist": {
           "type": "zip",
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/MDB2.zip"
@@ -114,6 +125,7 @@
       "1.4.1.0": {
         "name": "php-deps\/MDB2_Driver_mysql",
         "version": "1.4.1.0",
+        "autoload": {"psr-0": {"MDB2_Driver_mysql":""}},
         "dist": {
           "type": "zip",
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/MDB2_Driver_mysql.zip"
@@ -124,6 +136,7 @@
       "1.4.9": {
         "name": "php-deps\/PEAR",
         "version": "1.4.9",
+        "autoload": {"psr-0": {"PEAR":""}},
         "dist": {
           "type": "zip",
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/PEAR.zip"
@@ -134,6 +147,7 @@
       "0.6": {
         "name": "php-deps\/Spreadsheet_Excel_Writer",
         "version": "0.6",
+        "autoload": {"psr-0": {"Spreadsheet_Excel_Writer":""}},
         "dist": {
           "type": "zip",
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Spreadsheet_Excel_Writer.zip"
@@ -144,6 +158,7 @@
       "1.0.0": {
         "name": "php-deps\/Services_JSON",
         "version": "1.0.0",
+        "autoload": {"psr-0": {"Services_JSON":""}},
         "dist": {
           "type": "zip",
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Services_JSON.zip"
