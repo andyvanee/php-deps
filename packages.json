@@ -136,7 +136,7 @@
       "1.4.9": {
         "name": "php-deps\/PEAR",
         "version": "1.4.9",
-        "autoload": {"psr-0": {"PEAR":""}},
+        "autoload": {"psr-0": {"PEAR":""}, "classmap": ["PEAR.php"]},
         "dist": {
           "type": "zip",
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/PEAR.zip"
