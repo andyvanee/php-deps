@@ -186,6 +186,61 @@
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/SmartyPaginate-1.5.tar.gz"
         }
       }
+    },
+    "php-deps\/Mail": {
+      "1.1.7": {
+        "name": "php-deps\/Mail",
+        "version": "1.1.7",
+        "autoload": {"psr-0": {"Mail": ""}},
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Mail.zip"
+        }
+      }
+    },
+    "php-deps\/Mail_Mime": {
+      "1.8.1": {
+        "name": "php-deps\/Mail_Mime",
+        "version": "1.8.1",
+        "autoload": {"psr-0": {"Mail_Mime": ""}},
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Mail_Mime.zip"
+        }
+      }
+    },
+    "php-deps\/Text_Password": {
+      "1.1.0": {
+        "name": "php-deps\/Text_Password",
+        "version": "1.1.0",
+        "autoload": {"psr-0": {"Text_Password": ""}},
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Text_Password.zip"
+        }
+      }
+    },
+    "php-deps\/Net_SMTP": {
+      "1.2.8": {
+        "name": "php-deps\/Net_SMTP",
+        "version": "1.2.8",
+        "autoload": {"psr-0": {"Net_SMTP": ""}},
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Net_SMTP.zip"
+        }
+      }
+    },
+    "php-deps\/Pager": {
+      "2.2.7": {
+        "name": "php-deps\/Pager",
+        "version": "2.2.7",
+        "autoload": {"psr-0": {"Pager": ""}},
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Pager.zip"
+        }
+      }
     }
   }
 }
