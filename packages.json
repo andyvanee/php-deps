@@ -252,6 +252,17 @@
           "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Pager.zip"
         }
       }
+    },
+    "php-deps\/Net_URL": {
+      "1.0.15": {
+        "name": "php-deps\/Net_URL",
+        "version": "1.0.15",
+        "autoload": {"psr-0": {"Net_URL": ""}},
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Net_URL.zip"
+        }
+      }
     }
   }
 }
