@@ -231,6 +231,17 @@
         }
       }
     },
+    "php-deps\/Net_Socket": {
+      "1.0.10": {
+        "name": "php-deps\/Net_Socket",
+        "version": "1.0.10",
+        "autoload": {"psr-0": {"Net_Socket": ""}},
+        "dist": {
+          "type": "zip",
+          "url": "https:\/\/github.com\/downloads\/Andyvanee\/php-deps\/Net_Socket.zip"
+        }
+      }
+    },
     "php-deps\/Pager": {
       "2.2.7": {
         "name": "php-deps\/Pager",
